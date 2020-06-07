@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "eventName": "Mumbai",
+      "eventImage": "images/hansa.png",
+      "eventDate": "April 1",
+      "seatsAvailable": "0"
+    },
+    {
+      "eventName": "Jodhpur",
+      "eventImage": "images/hansa.png",
+      "eventDate": "April 1",
+      "seatsAvailable": "2"
+    },
+    {
+      "eventName": "Madrid",
+      "eventImage": "images/hansa.png",
+      "eventDate": "April 11",
+      "seatsAvailable": "2"
+    },
+    {
+      "eventName": "Chicago",
+      "eventImage": "images/hansa.png",
+      "eventDate": "April 2",
+      "seatsAvailable": "1"
+    },
+    {
+      "eventName": "Madison",
+      "eventImage": "images/hansa.png",
+      "eventDate": "April 1",
+      "seatsAvailable": "2"
+    }
+  ]
+}
